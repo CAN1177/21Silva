@@ -4,7 +4,7 @@ title: TimeScroll
 toc: content
 group:
   title: 基础组件
-  order: 1
+  order: 3
 ---
 
 # TimeScroll
